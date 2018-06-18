@@ -1,4 +1,4 @@
 # srs
-guitar
-https://github.com/cumtshuqiqi/srs/WebContent/WEB-INF/picture/duck.jpg
-https://github.com/cumtshuqiqi/srs/WebContent/WEB-INF/picture/test.jpg
+
+https://github.com/cumtshuqiqi/srs/blob/master/WebContent/WEB-INF/picture/duck.jpg
+https://github.com/cumtshuqiqi/srs/blob/master/WebContent/WEB-INF/picture/test.jpg
